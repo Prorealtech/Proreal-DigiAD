@@ -1,0 +1,11 @@
+
+
+User-agent: *
+Sitemap: https://proreal-digiad1.odoo.com/sitemap.xml
+
+
+##############
+#   custom   #
+##############
+
+
